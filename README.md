@@ -20,8 +20,8 @@ entre el frontend y la API pública de jugadores de baloncesto.
 ## 📦 Instalación local
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repo.git
-cd tu_repo
+git clone https://github.com/JoseLuisGalvis/basketVUE-backend-Node.git
+cd backenVUE
 npm install
 npm run dev
 ```
