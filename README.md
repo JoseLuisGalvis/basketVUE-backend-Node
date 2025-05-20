@@ -5,7 +5,7 @@ entre el frontend y la API pública de jugadores de baloncesto.
 
 [devsapihub.com](https://devsapihub.com/api-players).
 
-> 🔗 Despliegue activo: [https://basket-api.onrender.com](https://basket-api.onrender.com)
+> 🔗 Despliegue activo: [https://basket-api-1cge.onrender.com](https://basket-api-1cge.onrender.com)
 
 ---
 
@@ -33,7 +33,7 @@ npm run dev
 **Base URL:**
 
 ```
-https://basket-api.onrender.com/api
+https://basket-api-1cge.onrender.com/api
 ```
 
 | Método | Endpoint                      | Descripción                             |
